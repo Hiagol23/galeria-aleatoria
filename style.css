@@ -10,14 +10,8 @@ header{
     justify-content: center;
 }
 #galeria{
-    background-color: #618106;
+    background-color: #3e6be7;
     width: 100vw;
-}
-button{
-    background-color: #000000;
-    color: #ffffff;
-    font-size: 40px;
-    font-family: 'Times New Roman', Times, serif;
 }
 input{
     font-family: 'Times New Roman', Times, serif;
